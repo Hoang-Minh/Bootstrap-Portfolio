@@ -1,0 +1,66 @@
+body {
+    background-image: url("../images/background.png");
+}
+h2, h3 {
+    text-align: center;    
+}
+
+.jumbotron .container h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#image {
+    height: 200px;
+    width: 200px;
+}
+
+.navbar .container h3 {
+    color: #fff;
+    
+    font-size: 18px;
+}
+
+.col-sm-3 .row h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+}
+
+.divider {
+    color: #000;
+    border-top: 2px groove;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    line-height: 1.6em;
+    text-align: justify;
+}
+
+.col-sm-12 p {
+    text-align: center;
+}
+
+.row .col-sm-6 {
+    margin-bottom: 25px;
+}
+
+.portfolio-image {
+    height: 120px;
+    width: 120px;
+}
+
+.col-sm-4 .row {
+    margin-bottom: 50px;
+}
+
+.portfolio-name {
+    position: relative;
+    text-align: center;
+    background-color: teal;
+    color: #fff;
+    padding: 0;
+    width: 120px;
+    margin-top: -22px;
+    border-radius: 5px;
+}
